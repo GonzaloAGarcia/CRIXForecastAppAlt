@@ -1,0 +1,19 @@
+Name of Quantlet: 'CRIXForecastApp'
+
+Published in: 'Master Thesis'
+
+Description: 'R-Shiny app which does a one day forecast of the CRIX (thecrix.de) using an LSTM Model'
+
+Keywords: 'CRIX, Bitcoin, Ethereum, Forecast, LSTM'
+
+Author: 'Gonzalo Garcia'
+
+See also: 'optional: listing related Quantlets or Github code'
+
+Submitted:  '16. Jun 2021'
+
+Datafile: 'CRIXForecastApp.R'
+
+Input: 'optional'
+
+Output:  'optional'

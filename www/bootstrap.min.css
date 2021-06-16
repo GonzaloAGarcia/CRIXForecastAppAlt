@@ -1,0 +1,10 @@
+.dygraph-legend {
+  left: 70px !important;
+  background-color: transparent !important;
+} 
+
+.container-fluid {padding-left:0px;
+                    padding-right:0px;}
+                
+.container-fluid .navbar-header 
+.navbar-brand {margin-left: 0px;}
